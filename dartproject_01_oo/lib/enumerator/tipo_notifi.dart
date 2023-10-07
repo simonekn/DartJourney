@@ -1,0 +1,1 @@
+enum TipoNotifi {sms, pushNotification, email, none}
