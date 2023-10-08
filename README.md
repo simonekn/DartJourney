@@ -12,13 +12,14 @@ Here are some of the projects you can find in this repository:
 - [Project 1 - Object-Oriented](/dartproject_01_oo): Object-Oriented Programming Project in Dart.
 - [Project 2 - Exceptions Handling](/dartproject_02_ex): Exception Handling Project in Dart.
 - [Project 2 - Tests](/dartproject_03_testes): Introduction to Testing in Dart.
+- [BMI Calculator - Dart](https://github.com/simonekn/Dart-CalculatorBMI): BMI is a measure of body fat based on height and weight.
 
 
 ## About Dart
 Dart is a versatile and modern language developed by Google. It's known for its speed, productivity, and strong support for building web and mobile applications.
 
 ## Learning Resources
-- [My personal notebook - Portuguese](https://skn-programing.notion.site/Dart-Programming-40048615c0714a3dbefcc391371d9089).
+- [My personal notebook - Portuguese](https://skn-programing.notion.site/Dart-Programming-40048615c0714a3dbefcc391371d9089): My personal notebook on Notion - only in Portuguese.
 - [Official Dart Website](https://dart.dev/): The official source for Dart documentation, tutorials, and news.
 - [DartPad](https://dartpad.dev/): An online editor for experimenting with Dart code.
 - [Dart Packages](https://pub.dev/): A repository of Dart packages to enhance your projects.
